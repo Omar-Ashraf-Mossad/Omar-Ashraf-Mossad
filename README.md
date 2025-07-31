@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ashraf Mosaad</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=710&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-ashraf-mossad" alt="omar-ashraf-mossad" /></a> </p>
 
